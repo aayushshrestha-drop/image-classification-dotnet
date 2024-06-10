@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ImageClassification.Train": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

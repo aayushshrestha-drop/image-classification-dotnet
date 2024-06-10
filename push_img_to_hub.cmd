@@ -1,0 +1,1 @@
+docker push thapaliyabikendra/image-classification-train:latest

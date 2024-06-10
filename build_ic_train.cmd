@@ -1,0 +1,1 @@
+docker build -f "ImageClassification.Train\Dockerfile" -t thapaliyabikendra/image-classification-train:latest .

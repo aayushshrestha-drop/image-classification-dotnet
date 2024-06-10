@@ -1,0 +1,1 @@
+ docker run thapaliyabikendra/image-classification-train:latest -it
